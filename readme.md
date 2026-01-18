@@ -2,6 +2,7 @@
 
 A wireless esp32 camera module to create timelapse videos
 
+A version with pictures of this file can be found at [https://marco.guardigli.it/2026/01/capturingtimelapses.html]
 
 My wife recently bought a microgreens growing kit. 
 
